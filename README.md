@@ -15,6 +15,6 @@ The Autonomous Wildlife Monitoring System is designed to detect, track, and anal
 - Uses graph-based algorithms like Dijkstra's Algorithm to analyze spatial relationships between animals, measuring distances and visualizing interactions using Matplotlib. This helps in understanding animal positions and movements.
 
 ### Technologies Used
-- Computer Vision: OpenCV, Haar Cascade, YOLOv8
-- Audio Processing: Librosa for reading and normalizing audio files
+- Computer Vision: OpenCV, Haar Cascade, YOLOv8.
+- Audio Processing: Librosa for reading and normalizing audio files.
 - Visualization: Matplotlib for audio signal visualization.

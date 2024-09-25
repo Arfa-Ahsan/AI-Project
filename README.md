@@ -1,7 +1,7 @@
 # Autonomous-Wildlife-Monitoring-System
 
 ### Overview
-The Autonomous Wildlife Monitoring System is designed to detect, track, and analyze wildlife through video and sound detection.This system uses advanced computer vision and audio processing. It's perfect for wildlife research, conservation efforts, and security purposes.
+The Autonomous Wildlife Monitoring System is designed to detect, track, and analyze wildlife through video and sound detection.This system uses advanced AI techniques like computer vision and audio processing. It's perfect for wildlife research, conservation efforts, and security purposes.
 
 ### Features
 
